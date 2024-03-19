@@ -1,0 +1,23 @@
+{
+  "name": "search-engine-optimizer",
+  "version": "1.0.0",
+  "description": "Optimizes websites for search engines, improving visibility and ranking.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neonerd0mg/search-engine-optimizer"
+  },
+  "author": "neonerd0mg",
+  "license": "MIT",
+  "dependencies": {
+    "search-engine-optimizer": "1.0.0",
+    "ecommerce-shopping-cart": "1.0.0",
+    "web3-react": "1.0.0",
+    "mongoose": "1.0.0",
+    "web3": "1.0.0",
+    "bluebird": "1.0.0"
+  }
+}
